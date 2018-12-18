@@ -12,6 +12,7 @@ Because other than rendering themselves, they really don't know how to do much
 else. But, as we've seen, there's something blissful about being "simple" if you
 are a component.
 
+
 In this lab, we'll illustrate this principle by building two components: a
 `SimpleComponent` and a `SimplerComponent`. Our `SimpleComponent` will be
 presentational, but it will have a tiny bit of state and therefore be less
